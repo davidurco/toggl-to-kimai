@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "execute": "ts-node index.ts",
-    "demo": "ts-node index.ts --demo"
+    "execute": "ts-node index.ts"
   },
   "type": "commonjs",
   "keywords": [],
