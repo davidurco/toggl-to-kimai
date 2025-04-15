@@ -1,6 +1,6 @@
 # ⏱️ Toggl → Kimai Sync CLI
 
-![Demo Screenshot](./demo.gif)
+![Demo Screenshot](./demo.png)
 
 A simple, interactive CLI to import time entries from **Toggl** into **Kimai**. Great for freelancers and teams who track time in Toggl but report or invoice from Kimai.
 
